@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi
+
+I'm a CS student with an interest in low level programming. I am currently working on a game engine and nvim plugin written in rust. 
 
 <!--
 **jarenm1/jarenm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
