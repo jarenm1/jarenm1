@@ -1,5 +1,3 @@
-## Hi
-
 cs student
 
 <!--
